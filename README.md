@@ -1,4 +1,4 @@
-# Flo — Personal Money Flow Tracker
+# Flo - Personal Money Flow Tracker
 
 ## The Story Behind Flo
 
