@@ -4,11 +4,11 @@
 
 For someone on a fixed salary, tracking expenses is straightforward. Money comes in on a schedule, bills go out, and the math is simple.
 
-But for a business owner or freelancer, it's a completely different story.
+For a business owner or freelancer, it's a different story.
 
-Income isn't fixed. Some months it's a big client. Other months it's multiple smaller ones. On top of that, there are insurance premiums, policy renewals, vendor payments, and a dozen other recurring commitments that don't follow a neat calendar. Life gets busy, and things slip through the cracks — a missed bill here, a forgotten renewal there.
+Income isn't fixed. Some months it's one big client. Other months it's several small ones. On top of that there are insurance premiums, policy renewals, vendor payments, and a dozen other recurring commitments that don't follow a neat calendar. Life gets busy and things slip. A missed bill here, a forgotten renewal there.
 
-I was serving my notice period when this came up. My uncle and I were having tea, and he started talking about this exact problem. As someone running a business, he said he had no good way to track everything — not just where the money was going, but when things were due. Insurance. Policies. Annual payments. The stuff that sneaks up on you.
+This came up over tea with my uncle, who runs his own business. He said he had no good way to track any of it - not just where the money was going, but when things were due. Insurance. Policies. Annual payments. The things that sneak up on you.
 
 He asked if I could build something for it. Not an enterprise finance tool. Just something that made his life easier.
 
